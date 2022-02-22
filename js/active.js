@@ -146,13 +146,13 @@
      });
      $('.bike').animationCounter({
          start: 0,
-         end: 2,
+         end: 126,
          step: 1,
          delay: 300,
      });
      $('.code').animationCounter({
          start: 0,
-         end: 126,
+         end: 2,
          step: 3,
          delay: 300,
      });
