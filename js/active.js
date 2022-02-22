@@ -153,7 +153,7 @@
      $('.code').animationCounter({
          start: 0,
          end: 2,
-         step: 3,
+         step: 1,
          delay: 300,
      });
      $('.coffee').animationCounter({
